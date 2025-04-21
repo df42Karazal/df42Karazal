@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=df42Karazal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 df42Karazal/df42Karazal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
